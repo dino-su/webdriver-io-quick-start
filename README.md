@@ -11,3 +11,4 @@
 ![Screenshot](./README.files/carbon.png)
 
 ### HTML Report:
+[![Screenshot](./README.files/report.png)](report/index.html)
