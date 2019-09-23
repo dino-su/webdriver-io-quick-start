@@ -8,3 +8,6 @@
  2. 安裝 [GeckoDriver](https://github.com/mozilla/geckodriver/releases)
  3. 設定 [Safari WebDriver](https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari)
 ### Page Object with Fluent Interface:
+![Screenshot](./README.files/carbon.png)
+
+### HTML Report:
